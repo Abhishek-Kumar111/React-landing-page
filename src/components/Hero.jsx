@@ -5,7 +5,7 @@ const Hero = () => {
         Build Stunning Websites
       </h1>
       <p className="text-lg md:text-xl mb-6">
-        Fast • Responsive • Modern
+        Fast Responsive Modern
       </p>
       <button className="bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-200 transition">
         Get Started
